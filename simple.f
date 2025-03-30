@@ -1,5 +1,5 @@
 print("hi love")
 
-x=1
-y=2
+x=7
+y=4
 z=x+y
